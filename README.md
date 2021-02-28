@@ -1,2 +1,2 @@
-# LeetcodeForBytedance
- This is a question set consists of bytedance leetcode questions.
+# Leetcode
+ This is a question set consists of leetcode questions.
